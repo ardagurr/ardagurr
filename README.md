@@ -5,4 +5,4 @@
 ## 💬  How to Reach Me?
 - My LinkedIn account: [Linkedin](https://www.linkedin.com/in/arda-g%C3%BCr-557a16298/)
 - My twitter account: [Twitter](https://twitter.com/ArdaGurDev)
-- If you want to help me in my learning process, you can contact me via my e-mail address:
+- If you want to help me in my learning process, you can contact me via my e-mail address.

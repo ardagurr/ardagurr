@@ -3,6 +3,6 @@
 - 👨🏻‍💻 I am currently focusing on my computer science courses at Dokuz Eylül University. At the same time, I am trying to improve myself in the Go language.
 
 ## 💬  How to Reach Me?
-[Linkedin](https://www.linkedin.com/in/arda-g%C3%BCr-557a16298/)
-[Twitter](https://twitter.com/ArdaGurDev)
--If you want to help me in my learning process, you can contact me via my e-mail address:
+- My LinkedIn account: [Linkedin](https://www.linkedin.com/in/arda-g%C3%BCr-557a16298/)
+- My twitter account: [Twitter](https://twitter.com/ArdaGurDev)
+- If you want to help me in my learning process, you can contact me via my e-mail address:
